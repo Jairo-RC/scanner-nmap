@@ -23,7 +23,7 @@ EMAIL_SENDER = os.getenv("EMAIL_SENDER")
 EMAIL_PASSWORD = os.getenv("EMAIL_PASSWORD")
 
 # 🔹 CONFIGURACIÓN DE VIRUSTOTAL API 🔹
-VIRUSTOTAL_API_KEY = "d05ca5153317b2839410e47da524929a86ef5126c1c78b30cdfad987d4704c5e"
+VIRUSTOTAL_API_KEY = "tu_api_aqui"
 VIRUSTOTAL_URL = "https://www.virustotal.com/api/v3/ip_addresses/"
 
 
