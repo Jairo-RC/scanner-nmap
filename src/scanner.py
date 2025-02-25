@@ -1,3 +1,4 @@
+import requests
 import time
 from reportlab.lib.pagesizes import letter
 from reportlab.platypus import SimpleDocTemplate, Table, TableStyle
